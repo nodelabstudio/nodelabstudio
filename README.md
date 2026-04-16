@@ -93,7 +93,7 @@
 | **TapWater**       | iOS utility app                                        | Flutter, RevenueCat, Firebase |
 | **Harbor & Cross** | Nautical-themed daily devotional for Christian fathers | Flutter, AI content pipeline  |
 | **OpenClaw Setup** | Local AI home assistant                                | Nemotron, Docker, WSL2         |
-| **Hermes Agent** | Local AI home assistant                                | Docker, WSL2         |
+| **Hermes Agent** | Local AI marketing assistant                                | Docker, WSL2         |
 
 ---
 
