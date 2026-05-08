@@ -73,6 +73,11 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nodelabstudio&theme=tokyonight" width="49%" />
+
+</div>
 ---
 
 ### Contribution Graph
