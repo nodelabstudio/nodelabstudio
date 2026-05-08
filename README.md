@@ -70,9 +70,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nodelabstudio&theme=tokyonight" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodelabstudio&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nodelabstudio&theme=tokyonight" width="49%" />
 
 </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nodelabstudio&theme=tokyonight" width="49%" />
 
 
 
